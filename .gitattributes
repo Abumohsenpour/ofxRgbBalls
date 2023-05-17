@@ -1,0 +1,3 @@
+# Highlight C++ source files.
+*.cpp linguist-language=cpp
+*.h linguist-language=cpp
