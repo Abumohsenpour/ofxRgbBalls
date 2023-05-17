@@ -1,1 +1,3 @@
 src/main.cpp export-subst
+src/ofApp.cpp export-subst
+src/ofApp.h export-subst
